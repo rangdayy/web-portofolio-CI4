@@ -62,7 +62,7 @@
                     <div><a href="#about" class="btn-get-started scrollto">Get Started</a></div>
                 </div>
                 <div class="col-xl-4 col-lg-6 order-1 order-lg-2 hero-img" data-aos="zoom-in" data-aos-delay="150">
-                    <lottie-player src="assets/json/1325-code-fork-outline-edited.json" background="transparent" speed="0.7" style="height: 300px;" loop autoplay></lottie-player>
+                    <lottie-player src="assets/json/243-glasses-eye-blink-outline-edited.json" background="transparent" speed="0.7" style="height: 300px;" loop autoplay></lottie-player>
                 </div>
             </div>
         </div>
