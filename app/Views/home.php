@@ -17,12 +17,12 @@
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Roboto:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
 
     <!-- Vendor CSS Files -->
-    <link href="assets/css/aos/aos.css" rel="stylesheet">
-    <link href="assets/css/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-    <link href="assets/css/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
-    <link href="assets/css/boxicons/css/boxicons.min.css" rel="stylesheet">
-    <link href="assets/css/glightbox/css/glightbox.min.css" rel="stylesheet">
-    <link href="assets/css/swiper/swiper-bundle.min.css" rel="stylesheet">
+    <link href="assets/css/aos.css" rel="stylesheet">
+    <link href="assets/css/bootstrap.min.css" rel="stylesheet">
+    <link href="assets/css/bootstrap-icons.css" rel="stylesheet">
+    <link href="assets/css/boxicons.min.css" rel="stylesheet">
+    <link href="assets/css/glightbox.min.css" rel="stylesheet">
+    <link href="assets/css/swiper-bundle.min.css" rel="stylesheet">
 
     <!-- Template Main CSS File -->
     <link href="assets/css/style.css" rel="stylesheet">
@@ -277,12 +277,12 @@
     <div id="preloader"></div>
 
     <!-- Vendor JS Files -->
-    <script src="assets/js/purecounter/purecounter.js"></script>
-    <script src="assets/js/aos/aos.js"></script>
-    <script src="assets/js/bootstrap/js/bootstrap.bundle.min.js"></script>
-    <script src="assets/js/glightbox/js/glightbox.min.js"></script>
-    <script src="assets/js/isotope-layout/isotope.pkgd.min.js"></script>
-    <script src="assets/js/swiper/swiper-bundle.min.js"></script>
+    <script src="assets/js/purecounter.js"></script>
+    <script src="assets/js/aos.js"></script>
+    <script src="assets/js/bootstrap.bundle.min.js"></script>
+    <script src="assets/js/glightbox.min.js"></script>
+    <script src="assets/js/isotope.pkgd.min.js"></script>
+    <script src="assets/js/swiper-bundle.min.js"></script>
     <!-- <script src="assets/vendor/php-email-form/validate.js"></script> -->
 
     <!-- Template Main JS File -->
