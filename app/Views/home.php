@@ -89,7 +89,7 @@
                         <p>
                             I'm a fullstack web developer based in Makassar, Indonesia.
                             My interest in web development started when I decided to try making some HTML design, and it was kinda fun.
-                            I put my focus on this when i was an intern programmer in one of the biggest retail company in Indonesia.
+                            I put my focus on this when i was an intern programmer in one of the biggest retail companies in Indonesia.
                             I learned that this is my passion, and i needed to grow my skill so i can be a web developer specialist.
                         </p>
                         <p>
@@ -212,8 +212,8 @@
 
                         </p>
                         <p style="text-align-last: left !important;">
-                            <a href="isthismyspotify.herokuapp.com">Is this my spotify?</a> is a fun project to work to. With machine learning,
-                            this bot can predict your mood based on your recently listened song. Spotify provides a series of tracks different features
+                            <a href="https://isthismyspotify.herokuapp.com">Is this my spotify?</a> is a fun project to work to. With machine learning,
+                            this bot can predict your mood based on your recently listened songs. Spotify provides a series of tracks different features
                             such as Acousticness, Danceability, Energy, Instrumentalness, Liveness, Loudness, Speechiness, Valence, and Tempo.
                         </p>
                     </div>
