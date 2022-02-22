@@ -218,6 +218,22 @@
                         </p>
                     </div>
                 </div>
+                <div class="row">
+                    <div class="col-lg-7 order-1 order-lg-2" data-aos="fade-left" data-aos-delay="150">
+                        <!-- <img src="assets/img/isthismyspotify.png" class="img-fluid floating" alt=""> -->
+                    </div>
+                    <div class="col-lg-5 pt-4 pt-lg-0 order-2 order-lg-1 content" data-aos="fade-up">
+                        <!-- <p style="text-align: left !important;"><b></b> -->
+                        <h5>Laravel's REST API</h5>
+
+                        </p>
+                        <p style="text-align-last: left !important;">
+                            <a href="https://isthismyspotify.herokuapp.com">Is this my spotify?</a> is a fun project to work to. With machine learning,
+                            this bot can predict your mood based on your recently listened songs. Spotify provides a series of tracks different features
+                            such as Acousticness, Danceability, Energy, Instrumentalness, Liveness, Loudness, Speechiness, Valence, and Tempo.
+                        </p>
+                    </div>
+                </div>
 
             </div>
         </section><!-- End projects Section -->
