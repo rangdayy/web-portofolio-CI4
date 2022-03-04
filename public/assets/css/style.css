@@ -814,9 +814,6 @@ section {
   position: absolute;
 }
 
-
-
-
 .projects .icon-box h4 {
   font-size: 20px;
   font-weight: 700;
@@ -826,7 +823,7 @@ section {
 
 .projects .row {
 
-  margin-bottom: 70px;
+  margin-bottom: 20%;
 
 }
 
