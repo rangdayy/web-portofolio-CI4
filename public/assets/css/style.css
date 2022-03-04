@@ -18,6 +18,14 @@ p {
   text-align: justify;
   text-align-last: center;
 }
+a {
+  color: #2c4964;
+  text-decoration: none;
+}
+
+.bi {
+  color: #2c4964;
+}
 
 h1, h2, h3, h4, h5, h6 {
   font-family: "Poppins", sans-serif;
@@ -794,10 +802,7 @@ section {
 /*--------------------------------------------------------------
 # projects
 --------------------------------------------------------------*/
-.projects a {
-  color: #2c4964;
-  text-decoration: none;
-}
+
 .projects h5 {
   color: #2c4964;
 }
@@ -805,10 +810,12 @@ section {
   color: #3bb78f;
 }
 
-.projects a:hover {
-  color: #1e3042;
-  text-decoration: none;
+.bi {
+  bottom: -15px;
+  position: absolute;
 }
+
+
 
 
 .projects .icon-box h4 {

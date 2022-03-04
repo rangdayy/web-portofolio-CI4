@@ -209,29 +209,45 @@
                     <div class="col-lg-5 pt-4 pt-lg-0 order-2 order-lg-2 content" data-aos="fade-up">
                         <!-- <p style="text-align: left !important;"><b></b> -->
                         <h5>Is this my spotify?</h5>
-
                         </p>
                         <p style="text-align-last: left !important;">
                             <a href="https://isthismyspotify.herokuapp.com">Is this my spotify?</a> is a fun project to work to. With machine learning,
                             this bot can predict your mood based on your recently listened songs. Spotify provides a series of tracks different features
                             such as Acousticness, Danceability, Energy, Instrumentalness, Liveness, Loudness, Speechiness, Valence, and Tempo.
                         </p>
+                        <a href="https://github.com/rangdayy/is-this-my-spotify" ><i class="bi bi-github text-right"></i></a>
                     </div>
                 </div>
                 <div class="row">
                     <div class="col-lg-7 order-1 order-lg-2" data-aos="fade-left" data-aos-delay="150">
-                        <!-- <img src="assets/img/isthismyspotify.png" class="img-fluid floating" alt=""> -->
+                        <img src="assets/img/booth.png" class="img-fluid floating" alt="">
                     </div>
                     <div class="col-lg-5 pt-4 pt-lg-0 order-2 order-lg-1 content" data-aos="fade-up">
                         <!-- <p style="text-align: left !important;"><b></b> -->
-                        <h5>Laravel's REST API</h5>
+                        <h5>MiniBooth managing app with CodeIgniter 4</h5>
 
                         </p>
                         <p style="text-align-last: left !important;">
-                            <a href="https://isthismyspotify.herokuapp.com">Is this my spotify?</a> is a fun project to work to. With machine learning,
-                            this bot can predict your mood based on your recently listened songs. Spotify provides a series of tracks different features
-                            such as Acousticness, Danceability, Energy, Instrumentalness, Liveness, Loudness, Speechiness, Valence, and Tempo.
+                            is a convenient web-based app to manage transaction that happens in booths or stands. It provides help to operate your business and
+                            now you can ring up sales, manage inventory, manage employee, and reporting just in one app. This app made by using CodeIgniter 4 framework and MySQL for the database.
                         </p>
+                        <a href="https://github.com/rangdayy/my-booth" ><i class="bi bi-github text-right"></i></a>
+
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-lg-7 order-1 order-lg-1" data-aos="fade-right" data-aos-delay="150">
+                        <img src="assets/img/api-project.png" class="img-fluid floating" alt="">
+                    </div>
+                    <div class="col-lg-5 pt-4 pt-lg-0 order-2 order-lg-2 content" data-aos="fade-up">
+                        <h5>Laravel's REST API Implementation</h5>
+
+                        </p>
+                        <p style="text-align-last: left !important;">
+                            is a mini project of REST API implementation on PHP's framework laravel.
+                            A simple API to manage Books where user can add book, show list of books, delete books, and edit books. This returns JSON type response.
+                        </p>
+                        <a href="https://github.com/rangdayy/books-store-api" ><i class="bi bi-github text-right"></i></a>
                     </div>
                 </div>
 
