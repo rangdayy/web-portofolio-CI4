@@ -809,7 +809,7 @@ section {
 .projects p {
   color: #3bb78f;
 }
-.bi {
+.projects .bi {
   bottom: -15px;
   position: absolute;
 }
